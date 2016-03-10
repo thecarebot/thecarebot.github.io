@@ -12,7 +12,7 @@ The evolution of journalism, from new platforms and storytelling approaches to c
 
 Traditional approaches to measuring success through web analytics appropriated from other fields as well as using metrics focused on the publishing and advertising interests behind the business models that support journalism have historically limited the level of insight and relevance of analytics for journalism.
 
-Carebot started as an effort in thinking about alternative ways to look at our analytics — both the measures and indicators used to understand story impact and the way in which analytics data is used in the newsroom, for those seeking to celebrate impact, evolve their storytelling methods and enhance stories as it encounters users in the real world
+Carebot started as an effort in thinking about alternative ways to look at analytics for journalism — both the measures and indicators used to understand story impact and the way which analytics data is used in the newsroom, for those seeking to celebrate impact, evolve their storytelling methods and enhance stories as it encounters users in the real world.
 
 ### The Origin Story
 
