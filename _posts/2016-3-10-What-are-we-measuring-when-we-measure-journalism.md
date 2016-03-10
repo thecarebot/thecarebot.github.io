@@ -3,7 +3,7 @@ layout: post
 title: What Are We Measuring When We Measure Journalism
 ---
 
-*The first questions asked is rarely the most useful; the last question forces you to find an answer.*
+*The first question asked is rarely the most useful; the last question forces you to find an answer.*
 
 When we started to discuss the many aspects of measuring success in journalism and the challenges presented with currently available analytics solutions and industry assumptions about measuring, all questions eventually lead up to "what exactly are we measuring?"
 
@@ -27,7 +27,7 @@ So, is a news feature a story? Yes. Is a photo essay a story? Yes. Is a graphic 
 
 There are obvious challenges in figuring out an appropriate way to categorize stories so we can make sure we are comparing apples to apples (more on that next time), but the point with using "story" as the basis for the work is identifying a concrete, tangible, minute and distinguishible unit of analysis so our work can be precise, repeatable and understandable. 
 
-**So, when we talk about measuring journalism, we mean measuring aspects of the stories that represent journalism. **
+**So, when we talk about measuring journalism, we mean measuring aspects of the stories that represent journalism.**
 
 - - - 
 
