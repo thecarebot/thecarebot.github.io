@@ -14,11 +14,6 @@ Traditional approaches to measuring success through web analytics appropriated f
 
 Carebot started as an effort in thinking about alternative ways to look at analytics for journalism — both the measures and indicators used to understand story impact and the way which analytics data is used in the newsroom, for those seeking to celebrate impact, evolve their storytelling methods and enhance stories as it encounters users in the real world.
 
-### The Origin Story
-
-How Chris made it happen...
-
-
 ### Carebot in the media
 * ["NPR is building an analytics bot that emphasizes caring over clicks"](http://www.poynter.org/2015/npr-is-building-an-analytics-bot-that-emphasizes-caring-over-clicks/382681/) — Poynter, Nov 4, 2015
 * ["This One Neat Trick Will Eliminate Clickbait Forever"](http://www.huffingtonpost.com/entry/npr-carebot-clickbait_us_567332d0e4b06fa6887cb0c9?) — Huffington Post, Dec 17, 2015
