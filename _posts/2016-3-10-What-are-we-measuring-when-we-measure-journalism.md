@@ -1,9 +1,9 @@
 ---
 layout: post
-title: What Are We Measuring When We Try to Measure Journalism
+title: What Are We Measuring When We Measure Journalism
 ---
 
-**The first questions asked is rarely the most useful question. The last question is the one that forces you to find an answer.**
+**The first questions asked is rarely the most useful; the last question forces you to find an answer.**
 
 When we started to discuss the many aspects of measuring success in journalism and the challenges presented with currently available analytics solutions and industry assumptions about measuring, all questions eventually lead up to "what exactly are we measuring?"
 
