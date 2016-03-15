@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Carebotgit 
+title: Introducing Carebot
 ---
 
 You may have <a href="http://www.poynter.org/2015/npr-is-building-an-analytics-bot-that-emphasizes-caring-over-clicks/382681/">heard about Carebot</a> <a href="http://www.huffingtonpost.com/entry/npr-carebot-clickbait_us_567332d0e4b06fa6887cb0c9?ncid=tweetlnkushpmg00000067">in the media</a> and you may have <a href="http://twitter.com/thecarebot">talked to us</a> about the technical aspects of what it could be, so here is a quick update about what Carebot is today and where things stand.
