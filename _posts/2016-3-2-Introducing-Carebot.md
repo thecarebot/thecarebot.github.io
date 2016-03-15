@@ -2,7 +2,7 @@
 layout: post
 title: Introducing Carebot
 ---
-
+ 
 You may have <a href="http://www.poynter.org/2015/npr-is-building-an-analytics-bot-that-emphasizes-caring-over-clicks/382681/">heard about Carebot</a> <a href="http://www.huffingtonpost.com/entry/npr-carebot-clickbait_us_567332d0e4b06fa6887cb0c9?ncid=tweetlnkushpmg00000067">in the media</a> and you may have <a href="http://twitter.com/thecarebot">talked to us</a> about the technical aspects of what it could be, so here is a quick update about what Carebot is today and where things stand.
 <h1>What is Carebot for?</h1>
 I started describing Carebot as “meaningful analytics for journalism” when I noticed that the conversation about success in journalism always turns to what data people are looking at and what tools they are using rather than what problem it seeks to address and why.
