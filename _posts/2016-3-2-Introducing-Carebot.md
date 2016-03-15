@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Carebot
+title: Introducing Carebotgit 
 ---
 
 You may have <a href="http://www.poynter.org/2015/npr-is-building-an-analytics-bot-that-emphasizes-caring-over-clicks/382681/">heard about Carebot</a> <a href="http://www.huffingtonpost.com/entry/npr-carebot-clickbait_us_567332d0e4b06fa6887cb0c9?ncid=tweetlnkushpmg00000067">in the media</a> and you may have <a href="http://twitter.com/thecarebot">talked to us</a> about the technical aspects of what it could be, so here is a quick update about what Carebot is today and where things stand.
@@ -30,6 +30,7 @@ The mechanics of Carebot are extremely straightforward: Ze collects usage data o
 For every story, Carebot uses a tracking component (a little snippet of code) which captures a few different aspects of how users are accessing and interacting with a story.
 
 <img src="/images/carebot1.png" alt="example tracking of on-screen visibility for graphics" width="550" height="150" />
+
 *example tracking of on-screen visibility for graphics*
 
 This information is fed into Google Analytics (as events and event categories, if that lingo matters to you). Carebot is also tracking some aspects of usage for things more granular than a story, such as graphics and images (which can be interesting in an of themselves).
@@ -43,6 +44,7 @@ a) it only surfaces metrics identified as possibly most useful in understanding 
 b) it offers this information through periodic notifications over a finite period of time, following the usual traffic pattern for a story.
 
 <img class="size-full wp-image-865" src="/images/carebot2.png" alt="a notification about the graphic on-screen visibility for a story" width="550" height="85" />
+
 *a notification about the graphic on-screen visibility for a story*
 
 Currently the notifications are being delivered via <a href="http://slack.com">Slack</a> in a channel used by a specific desk (our Graphics desk) because we are prototyping Carebot in a newsroom where this particular technology is in use. Carebot is agnostic to the delivery method and the notification would work just as well as a text message, an email, a mobile app, or as a bot integration on other services like Hipchat or Twitter.
@@ -50,6 +52,7 @@ Currently the notifications are being delivered via <a href="http://slack.com">S
 When Carebot first becomes aware of a story (the story gets published and the tracking mechanism starts gathering data from user visits), it alerts the newsroom so they know Carebot is keeping track of things and will start sending relevant notifications over the course of the next 3 days (3 days only due to the current scope of our work):
 
 <img src="/images/carebot3.png" alt="first notification carebot shares about a story" width="550" height="270" />
+
 *first notification carebot shares about a story*
 
 The scope of our current experiment is only stories with graphics and the metric we are testing is an indicator we call the “linger rate”, to assess how much time users are spending with the graphic, not just the time they spend with story the graphic is in.
@@ -57,16 +60,19 @@ The scope of our current experiment is only stories with graphics and the metric
 After the first notification to indicate tracking has begun, Carebot reports that metric for the story every 4 hours for the first day, then twice daily for the second and third day. This frequency and volume are part of our experiment to find a good balance of awareness without nagging.
 
 <img src="/images/carebot4.png" alt="example of wording variation used on 2nd and 3rd notifications" width="550" height="180" />
+
 *example of wording variation used on 2nd and 3rd notifications*
 
 Some stories contain multiple graphics or graphics may be used across different stories. These unique scenarios are helping us explore different presentation needs and how to best answer questions raised by journalists when the right metric is available at the right time.
 
 <img src="/images/carebot5.png" alt="early example for a story with multiple graphics" width="550" height="260" />
+
 *early example for a story with multiple graphics*
 
 Carebot is currently a broadcasting tool more than it is a bot that responds to specific user requests, but we are beginning to add a few capabilities based on user feedback and what we are learning as they receive information from Carebot.
 
 <img src="/images/carebot6.png" alt="test query for specific graphic information" width="550" height="130" />
+
 *test query for specific graphic information*
 
 ## What’s next for Carebot?
