@@ -10,7 +10,7 @@ There is no wrong way to categorize stories. There are, however, many right ways
 
 Comparing measures to broad averages across story types dilutes the insight and often obscures what is distinct about a specific story and its performance, so the classification system has the potential to impact the quality of the analytics used.
 
-After we narrowed it down to **story** as [Carebot's subject of analysis](https://thecarebot.github.io/What-are-we-measuring-when-we-measure-journalism/), we started the real hard work, which is to define what is comparable and what is not; how to classify a story. 
+After we defining **story** as the [unit of analysis for Carebot](https://thecarebot.github.io/What-are-we-measuring-when-we-measure-journalism/), we started to explore what is comparable and what is not; how to classify a story. 
 
 I had interviewed several people at NPR about their interest in story analytics so I went back to the transcripts and looked for questions that were specific to a kind of story or unique to a particular of the storytelling approach — "how many comments mentioned the graphic?" and "did anyone mute the audio-driven slideshow?" are two examples that come to mind. 
 
@@ -23,7 +23,7 @@ A multi-faceted taxonomy allow us to compare relevant things among very differen
 
 **Note:** This taxonomy reflects the realities of the NPR Visuals teams and the nature of stories told by this team, grounded in interviews with team members. The set accommodates further expansion with a variety of types and expressions should the scope of comparisons increase.
 
----
+***
 
 ### Facet 1: Dominant Media
 What media is most central to the storytelling (not just what there is more of)
@@ -66,9 +66,12 @@ The method by which the user navigates the story.
 * Playback: Start an audio or video-driven narrative.
 * Advance: Click or tap through a sequence of assets (slides, screens, photos in a gallery, etc).
 
----
 
-We can add new facets until the cows go home. My main objective is to have the minimum amount of categories to make meaningful distinctions, so we don't add any more than we need. In fact, the design approach is "take it away until it breaks, then add it back". And to the extent that it made sense, I tried to frame each facet from the perspective of the user and how the user interacts with the story, in alignment with our scope of interest.
+***
+
+
+
+We can add new facets until the cows go home. My main objective is to have the minimum amount of categories to make meaningful distinctions, so we don't add any more than we need. In fact, the design approach is "take it away until it breaks, then add it back". And to the extent that it made sense, I tried to frame each facet from the perspective of the user and how the user interacts with the story, in alignment with our principles (more on this later).
 
 Before all this, the first iterations of Carebot had a tagging system intended for the same purpose but was really a [folksonomy](http://vanderwal.net/folksonomy.html), not so much categorizing as giving the item some meaning, like "books" because it was a project about books. 
 
