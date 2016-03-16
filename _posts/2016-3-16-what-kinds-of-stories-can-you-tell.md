@@ -28,7 +28,7 @@ A multi-faceted taxonomy allow us to compare relevant things among very differen
 # Carebot's Story Taxonomy
 
 ***
-
+ 
 ### Facet 1: Dominant Media
 What media is most central to the storytelling (not just what there is more of)
 
