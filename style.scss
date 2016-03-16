@@ -9,6 +9,7 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 @import url(https://fonts.googleapis.com/css?family=Jura);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
 
 /**************/
 /* BASE RULES */
@@ -195,7 +196,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $lobster;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
