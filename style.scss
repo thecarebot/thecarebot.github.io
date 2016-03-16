@@ -72,11 +72,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $carebotPurple;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $carebotPurple;
+    color: $carebotYellow;
   }
 }
 
@@ -235,7 +235,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $carebotPurple;
     }
   }
 }
