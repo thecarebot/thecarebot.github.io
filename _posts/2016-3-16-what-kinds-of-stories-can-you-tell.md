@@ -23,7 +23,10 @@ A multi-faceted taxonomy allow us to compare relevant things among very differen
 
 **Note:** This taxonomy reflects the realities of the NPR Visuals teams and the nature of stories told by this team, grounded in interviews with team members. The set accommodates further expansion with a variety of types and expressions should the scope of comparisons increase.
 
+
 ***
+# Carebot's Story Taxonomy
+___
 
 ### Facet 1: Dominant Media
 What media is most central to the storytelling (not just what there is more of)
@@ -71,7 +74,11 @@ The method by which the user navigates the story.
 
 <br><br>
 
-We can add new facets until the cows go home. My main objective is to have the minimum amount of categories to make meaningful distinctions, so we don't add any more than we need. In fact, the design approach is "take it away until it breaks, then add it back". And to the extent that it made sense, I tried to frame each facet from the perspective of the user and how the user interacts with the story, in alignment with our principles (more on this later).
+We can add new facets until the cows go home. My main objective is to have the minimum amount of categories to make meaningful distinctions, so we don't add any more than we need. In fact, the design approach is "take it away until it breaks, then add it back". 
+
+To the extent that it made sense, I tried to frame each facet from the perspective of the user and how the user interacts with the story, in alignment with our principles (more on this later).
+
+### We've been here before...
 
 Before all this, the first iterations of Carebot had a tagging system intended for the same purpose but was really a [folksonomy](http://vanderwal.net/folksonomy.html), not so much categorizing as giving the item some meaning, like "books" because it was a project about books. 
 
