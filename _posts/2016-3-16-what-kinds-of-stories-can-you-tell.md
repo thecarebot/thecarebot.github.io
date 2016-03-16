@@ -69,7 +69,7 @@ The method by which the user navigates the story.
 
 ***
 
-
+<br><br>
 
 We can add new facets until the cows go home. My main objective is to have the minimum amount of categories to make meaningful distinctions, so we don't add any more than we need. In fact, the design approach is "take it away until it breaks, then add it back". And to the extent that it made sense, I tried to frame each facet from the perspective of the user and how the user interacts with the story, in alignment with our principles (more on this later).
 
