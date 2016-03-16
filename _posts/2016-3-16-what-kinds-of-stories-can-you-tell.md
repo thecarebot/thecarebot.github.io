@@ -24,9 +24,10 @@ A multi-faceted taxonomy allow us to compare relevant things among very differen
 **Note:** This taxonomy reflects the realities of the NPR Visuals teams and the nature of stories told by this team, grounded in interviews with team members. The set accommodates further expansion with a variety of types and expressions should the scope of comparisons increase.
 
 
-***
+
 # Carebot's Story Taxonomy
-___
+
+***
 
 ### Facet 1: Dominant Media
 What media is most central to the storytelling (not just what there is more of)
