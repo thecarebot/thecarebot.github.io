@@ -18,9 +18,9 @@ $white: #fff;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
-$jura: Jura, serif; 
-$lobster: Lobster, cursive;
-$roboto: Roboto, sans-serif;
+$jura: Jura, Helvetica, Arial, serif; 
+$lobster: Lobster,  Helvetica, Arial, cursive;
+$roboto: Roboto, Helvetica, Arial, sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
