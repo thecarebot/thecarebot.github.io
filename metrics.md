@@ -48,7 +48,7 @@ Here's what we have explored so far. Note: This part of the document changes fre
 #### Measure: Graphic On-screen Visibility 
 How much time a user views a graphic on their screen.
 
-How it works
+##### How it works
   * time is counted in seconds
   * time is captured in 10sec increments up to a minute, then 1min increments up to 5minutes then in 5min increments.
   * views under 10 seconds are discarded (considered a bounce).
@@ -56,7 +56,7 @@ How it works
   * if the user leaves window innactive and returns, the count continues.
   * if the user closes the window and opens again, the count re-starts.
 
-Reporting
+##### Reporting
   * Reported as a median value for all users of a graphic.
   * Shown as a distribution to contextualize median.
   * Used to calculate Graphic Linger Rate.
