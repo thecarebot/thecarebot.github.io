@@ -3,7 +3,7 @@ layout: page
 title: Carebot Metrics
 permalink: /metrics/
 ---
-
+ 
 * [Introduction](#introduction)
 * [Measures and Indicators](#measures-and-indicators)
 * [Definitions](#definitions)
