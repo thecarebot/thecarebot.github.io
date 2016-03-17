@@ -49,17 +49,17 @@ Here's what we have explored so far. Note: This part of the document changes fre
 How much time a user views a graphic on their screen.
 
 How it works
-* time is counted in seconds
-* time is captured in 10sec increments up to a minute, then 1min increments up to 5minutes then in 5min increments.
-* views under 10 seconds are discarded (considered a bounce).
-* screen is equivalent to the user's browser viewport.
-* if the user leaves window innactive and returns, the count continues.
-* if the user closes the window and opens again, the count re-starts.
+  * time is counted in seconds
+  * time is captured in 10sec increments up to a minute, then 1min increments up to 5minutes then in 5min increments.
+  * views under 10 seconds are discarded (considered a bounce).
+  * screen is equivalent to the user's browser viewport.
+  * if the user leaves window innactive and returns, the count continues.
+  * if the user closes the window and opens again, the count re-starts.
 
 Reporting
-* Reported as a median value for all users of a graphic.
-* Shown as a distribution to contextualize median.
-* Used to calculate Graphic Linger Rate.
+  * Reported as a median value for all users of a graphic.
+  * Shown as a distribution to contextualize median.
+  * Used to calculate Graphic Linger Rate.
 
 #### Measure: Scroll depth across a story
 How far down the length of a story a user scrolled.
