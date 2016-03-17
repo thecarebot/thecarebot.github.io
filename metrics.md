@@ -6,8 +6,7 @@ permalink: /metrics/
 
 * [Introduction](#introduction)
 * [Measures and Indicators](#measures-and-indicators)
-* [Carebot Measures](#carebot-measures)
-* [Carebot Indicators](#carebot-indicators)
+* [Definitions](#definitions)
 
 ## Introduction
 
@@ -42,7 +41,7 @@ All indicators are relative to a set of measures in a particular context. For an
 
 It is very easy to get indicators wrong because they can obscure a lot of information and complexity with the deceivingly simple guise of a single value.
 
-## Carebot Measures and Indicators
+### Definitions
 
 Here's what we have explored so far. Note: This part of the document changes frequently.
 
