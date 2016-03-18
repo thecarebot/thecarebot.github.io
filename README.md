@@ -37,4 +37,8 @@ If you want to preview the blog before going live, follow these instructions. Co
 
 3. View the local site at [http://127.0.0.1:4000](http://127.0.0.1:4000)
 
+Note on working locally: The site uses web fonts, which will not load if you are working offline. Even when working locally, the local site will look for web fonts in a remote URL.
+
+***
+
 Note: In the event this is not self-evident, only people authorized to change this repo can publish blog posts. 
