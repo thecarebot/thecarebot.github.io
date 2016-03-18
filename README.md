@@ -29,10 +29,12 @@
 
 ### Running a local server for this blog
 
-Follow the above **setup instructions** first.
+If you want to preview the blog before going live, follow these instructions. Complete the above **setup instructions** first.
 
 1. Run `gem install github-pages` to install Jekyll and plug-ins in one fell swoop. This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc. This will allow you to reliably see the same thing you'd see on the live site.
 
 2. Run `jekyll serve` to serve the site.
 
 3. View the local site at [http://127.0.0.1:4000](http://127.0.0.1:4000)
+
+Note: In the event this is not self-evident, only people authorized to change this repo can publish blog posts. 
