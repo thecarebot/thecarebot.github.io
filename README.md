@@ -23,7 +23,7 @@
 
 4. `git add .` to add the file you changed. 
 
-5. `git commit -m "your commit message here" to indicate what you are publishing or changing
+5. `git commit -m "your commit message here"` to indicate what you are publishing or changing
 
 6. `git push` to push the new post to [The Carebot blog](https://thecarebot.github.io/)
 
