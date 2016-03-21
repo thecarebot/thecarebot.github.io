@@ -35,3 +35,5 @@ There are obvious challenges in figuring out an appropriate way to categorize st
 #### Footnote
 Focusing on things delivered via the Internet may seem narrow at first, but consider this means any and all media that is delivered through digital means. Radio and TV may not be included at first, but any story that originates there also eventually find its way online, whether for redistribution, repurposing or archival purposes.
 
+
+— [Livia Labate](http://twitter.com/livlab)

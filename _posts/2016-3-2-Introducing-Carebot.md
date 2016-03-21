@@ -78,3 +78,5 @@ Our work is currently supported by a <a href="http://www.knightfoundation.org/gr
 This will help us demonstrate the potential of Carebot’s approach and share the lessons we learn over the course of experimenting with this notification based approach and new metrics to improve understanding and assessment of performance for journalism.
 
 **Note:** The Carebot team will be at <a href="http://www.ire.org/conferences/nicar2016/">NICAR 2016, March 9-13</a>, and more than eager to talk to anyone interested in understanding performance and analytics for journalism. Please connect with us in person (there will be a session about this very topic in the conversation track!) and online through <a href="http://twitter.com/thecarebot">@thecarebot</a>. You can follow our progress on <a href="http://github.com/thecarebot">Github.</a>
+
+— [Livia Labate](http://twitter.com/livlab)

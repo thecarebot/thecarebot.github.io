@@ -33,4 +33,6 @@ Also, it is particularly exciting to find how people are experimenting and explo
 That's it for now. More on our NICAR take-aways next week when we are back!
 
 
+— [Livia Labate](http://twitter.com/livlab)
+
 
