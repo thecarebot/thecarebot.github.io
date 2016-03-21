@@ -145,3 +145,11 @@ Hard to measure. BUT what if we could know things like "This article resonated a
 
 Rather than _volume_ of messages, where there any exceptional shares or responses? Messages that got more shares, retweets, or replies? What does a sampling of responses look like? (Give people actual examples of the text people wrote in response) 
 
+#### Other
+
+##### Indicator: Never seen
+Number of people who never even saw the graphic
+
+unique sessions for story - (sum of all sessions with graphics on screen visibilty over 10 seconds)
+
+Could also be Graphic On-screen visibility under n seconds (figuring out n seems very random).
