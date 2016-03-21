@@ -5,7 +5,7 @@ title: Carebot Design Principles
 
 Attempting to address such a large problem space as assessing success for journalism and analytics for newsrooms can be overwhelming. This is one of the reasons why a user-centered design approach can be really helpful.
 
-Grounding your exploration of a problem by talking to real humans in that setting forces you to discuss specifics and identify issues and opportunities at a much greater level of detail.
+Grounding your exploration of a problem by talking to real humans in the setting these problems take place, forces you to discuss specifics and identify issues and opportunities at a much greater level of detail.
 
 After interviewing journalists, editors, producers, developers and designers at NPR, I felt I had a much better understanding of who they were (the roles they played and the distinct needs and challenges they each faced), as well as being able to see what were common problems for everyone and what were the most poorly served needs overall. 
 
@@ -13,13 +13,15 @@ After interviewing journalists, editors, producers, developers and designers at 
 
 ### Design principles
 
-Designers employ a variety methods to retain the focus on the problems users need addressed during the life of a project: personas, need matrices, user stories, journey maps, etc. I am a fan of design principles.
+Designers employ a variety methods to retain the focus on the problems users need addressed during the life of a project: personas, need matrices, user stories, journey maps, etc. 
+
+Each approach has stengths and weaknesses depending on its use and circumstances of use; I am a fan of **design principles** for projects where the problem space is abstract and I know little about it at first, and also when people may be coming in and out of the project and need to quickly get up to speed on what's really important to users.
 
 **Design principles serve as guardrails for decision-making.** They are expressed as a set of statements that offer a distinct perspective on how things should be done. They help you two ways: 
 
-1.  On the onset of a project, they set a direction by summarizing the essence of *how* the solution needs to meet users needs, based on how users expressed their expectations during research, and 
+1.  On the onset of a project, they set a direction by summarizing the essence of *how* the solution needs to meet users' needs, based on how users expressed their expectations during research, and 
 
-2. Throughout the course of doing work, they aid you in keeping moving in that direction and give you language and arguments to rein in efforts when start to stray away. 
+2. Through the course of doing work, they aid you in keeping moving in that direction and give you language and arguments to rein in efforts when start to stray away. 
 
 This is what I put together for Carebot:
 
@@ -28,9 +30,9 @@ This is what I put together for Carebot:
 Carebot will be successful if it satisfies its users in the following ways:
 
 ### Measure what matters, not what's easy
-* Identify measures and indicators that more meaningfully answer journalists' questions
+* Identify measures and indicators that more meaningfully answer journalists' questions. 
 * Only compare things that are like each other.
-* Distinguish raw measures from indicators combining measures.
+* Don't obscure meaningful detail in favor of simplicity. Distinguish raw measures from indicators combining measures. 
 
 ### Make me smarter
 * Help me celebrate my and the team’s contributions and learn what works. 
@@ -38,6 +40,7 @@ Carebot will be successful if it satisfies its users in the following ways:
 
 ### Speak my language
 * Use plain language. No jargon and marketese; story performance can be expressed numericaly but does not need to be mathematical.
+* Make complexity welcoming by pacing how information is revealed to me.
 
 ### Don’t bother me, I’m on deadline!
 * I have a job to do, keep me in the loop on what’s key (good and bad).
@@ -51,7 +54,7 @@ Carebot will be successful if it satisfies its users in the following ways:
 
 One thing to note is design principles are commonly mistaken or misread as *principles of design* — overarching rules and fundamental ideas from the overall practice of design that are presumed to be best practices for those doing design work. Design principles for a product or project are supposed to be specific to the circumstances and needs of the product or project at hand.
 
-This mistake is why there are so many (publicly available and easily findable) horrible design principles for products out in the world. "Make it simple" is the single worst and most useless example — it's everywhere and it means nothing. Can you think of a product (games excluded) intentionally setting out to make it harder on users? If the statement doesn't help one make a specific decision or assess if their decision is directionaly appropriate, it's not useful.
+This mistake is why there are so many (publicly available and easily findable) horrible design principles for products out in the world. "Make it easy/simple" is the single worst and most useless example — it's everywhere and it means nothing. Can you think of a product (games excluded) intentionally setting out to make it harder on users? If the statement doesn't help one make a specific decision or assess if their decision is directionaly appropriate, it's not useful.
 
 Another things design principles do is they collate the commonalities, not the uniquness of the audience. Your project may serve multiple audiences with distinct needs from each other, but the design principles only speak to what is common among them.
 
