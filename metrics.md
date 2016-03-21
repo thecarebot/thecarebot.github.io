@@ -48,6 +48,9 @@ Here's what we have explored so far. Note: This part of the document changes fre
 #### Measure: Graphic On-screen Visibility 
 How much time a user views a graphic on their screen.
 
+##### Question it answers
+How much time do people look at a graphic when reading a story?
+
 ##### How it works
   * time is counted in seconds
   * time is captured in 10sec increments up to a minute, then 1min increments up to 5minutes then in 5min increments.
@@ -61,7 +64,7 @@ How much time a user views a graphic on their screen.
   * Shown as a distribution to contextualize median.
   * Used to calculate Graphic Linger Rate.
 
-#### Measure: Scroll depth across a story
+#### Measure: Scroll depth
 How far down the length of a story a user scrolled.
 
 [coming soon]
@@ -74,9 +77,71 @@ The median visibility of a graphic across all users who viewed it.
 #### Indicator: Engaged Completion Rate
 Percentage of people who start and complete the story.
 
+##### Question it answers
+Of the people who started, how many finished? 
+
+##### How it works
+[Engaged User Completion Rate](http://blog.apps.npr.org/2015/11/19/sequential-visual-stories.html)
+
+##### Reporting
+
 [coming soon]
 
 #### Indicator: Comparable Facebook Sharing
 Number of Facebook shares per 1000 user sessions.
 
 [coming soon]
+
+***
+
+old notes from wiki:
+
+# What does the "care" in Carebot mean? 
+
+- How much people care about a piece? 
+- If we made people care? (a change in care level)
+
+# Metrics that track care
+
+## Linger Rate
+
+"People looked at your graphic for an average of 5 minutes" 
+
+## Total Linger Time
+
+"People spent 50 hours looking at your graphics today!"
+
+Probably not a good metric because it's a proxy for pageviews (1,000,000 10-second views is a lot more time than 
+
+## Interaction Rate
+
+"50% of people [played audio]
+
+## Completion Rate
+
+Did someone get all the way through the piece? 
+
+## [Engaged User Completion Rate](http://blog.apps.npr.org/2015/11/19/sequential-visual-stories.html)
+
+Of the people who started, how many finished? 
+
+## [Read Time / Total Time Reading](https://medium.com/data-lab/mediums-metric-that-matters-total-time-reading-86c4970837d5#.otwa46ny7)
+
+> Read time is based on the average reading speed of an adult (roughly 275 WPM). We take the total word count of a post and translate it into minutes. Then, we add 12 seconds for each inline image. Boom, read time.
+
+## Social Media
+
+### Shares, Retweets 
+
+### Replies
+
+Did people actually have a discussion about the piece, or was it only shared outbound? 
+
+### Social Circles
+
+Hard to measure. BUT what if we could know things like "This article resonated among young Russian chess players, who shared it more than any other social cluster"? 
+
+### Sampling messages
+
+Rather than _volume_ of messages, where there any exceptional shares or responses? Messages that got more shares, retweets, or replies? What does a sampling of responses look like? (Give people actual examples of the text people wrote in response) 
+
