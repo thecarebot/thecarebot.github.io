@@ -13,4 +13,21 @@
 		});
 	</script>
 	<!-- End Google Analytics -->
+
+	<!-- Carebot tracker -->
+	<script type="text/javascript" src="{{ site.baseurl }}/js/carebot-tracker.min.js"></script>
+	{% if page.slug %}
+		<script type="text/javascript">
+		var tracker = new CarebotTracker.ScrollTracker('main', function(result) {
+      var eventData = {
+        'hitType': 'event',
+        'eventCategory': '{{ page.slug }}',
+        'eventAction': 'scroll-depth',
+        'eventLabel': result
+      };
+      ga('send', eventData);
+		});
+		</script>
+	{% endif %}
+	<!-- End Carebot tracker -->
 {% endif %}
