@@ -1,0 +1,336 @@
+
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator><link href="https://thecarebot.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://thecarebot.github.io//" rel="alternate" type="text/html" /><updated>2016-03-22T16:59:02+00:00</updated><id>https://thecarebot.github.io//</id><title>Carebot</title><subtitle>Meaningful analytics for journalism</subtitle><entry><title>Carebot Design Principles</title><link href="https://thecarebot.github.io//carebot-design-principles/" rel="alternate" type="text/html" title="Carebot Design Principles" /><published>2016-03-21T00:00:00+00:00</published><updated>2016-03-21T00:00:00+00:00</updated><id>https://thecarebot.github.io//carebot-design-principles</id><content type="html" xml:base="https://thecarebot.github.io//carebot-design-principles/">&lt;p&gt;Attempting to address such a large problem space as assessing success for journalism and analytics for newsrooms can be overwhelming. This is one of the reasons why a user-centered design approach can be really helpful.&lt;/p&gt;
+
+&lt;p&gt;Grounding your exploration of a problem by talking to real humans in the setting these problems take place, forces you to discuss specifics and identify issues and opportunities at a much greater level of detail.&lt;/p&gt;
+
+&lt;p&gt;After interviewing journalists, editors, producers, developers and designers at NPR, I felt I had a much better understanding of who they were (the roles they played and the distinct needs and challenges they each faced), as well as being able to see what were common problems for everyone and what were the most poorly served needs overall.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When the problems are well identified and framed, coming up with ways to solve them is an unstoppable force: This is where ideas come from.&lt;/strong&gt; However, when you shift your focus towards refining those ideas and creating a solution, it is possible to lose sight of the problems you sought to address.&lt;/p&gt;
+
+&lt;h3 id=&quot;design-principles&quot;&gt;Design principles&lt;/h3&gt;
+
+&lt;p&gt;Designers employ a variety methods to retain the focus on the problems users need addressed during the life of a project: personas, need matrices, user stories, journey maps, etc.&lt;/p&gt;
+
+&lt;p&gt;Each approach has stengths and weaknesses depending on its use and circumstances of use; I am a fan of &lt;strong&gt;design principles&lt;/strong&gt; for projects where the problem space is abstract and I know little about it at first, and also when people may be coming in and out of the project and need to quickly get up to speed on what’s really important to users.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Design principles serve as guardrails for decision-making.&lt;/strong&gt; They are expressed as a set of statements that offer a distinct perspective on how things should be done. They help you two ways:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;On the onset of a project, they set a direction by summarizing the essence of &lt;em&gt;how&lt;/em&gt; the solution needs to meet users’ needs, based on how users expressed their expectations during research, and&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Through the course of doing work, they aid you in keeping moving in that direction and give you language and arguments to rein in efforts when start to stray away.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This is what I put together for Carebot:&lt;/p&gt;
+
+&lt;h2 id=&quot;carebots-design-principles&quot;&gt;Carebot’s Design Principles&lt;/h2&gt;
+
+&lt;p&gt;Carebot will be successful if it satisfies its users in the following ways:&lt;/p&gt;
+
+&lt;h3 id=&quot;measure-what-matters-not-whats-easy&quot;&gt;Measure what matters, not what’s easy&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Identify measures and indicators that more meaningfully answer journalists’ questions.&lt;/li&gt;
+  &lt;li&gt;Only compare things that are like each other.&lt;/li&gt;
+  &lt;li&gt;Don’t obscure meaningful detail in favor of simplicity. Distinguish raw measures from indicators combining measures.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;make-me-smarter&quot;&gt;Make me smarter&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Help me celebrate my and the team’s contributions and learn what works.&lt;/li&gt;
+  &lt;li&gt;Help me learn about new measures and indicators, and how they help me understand my stories’ impact.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;speak-my-language&quot;&gt;Speak my language&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Use plain language. No jargon and marketese; story performance can be expressed numericaly but does not need to be mathematical.&lt;/li&gt;
+  &lt;li&gt;Make complexity welcoming by pacing how information is revealed to me.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;dont-bother-me-im-on-deadline&quot;&gt;Don’t bother me, I’m on deadline!&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;I have a job to do, keep me in the loop on what’s key (good and bad).&lt;/li&gt;
+  &lt;li&gt;Tell me what I must know and no more. No information for information sake, no fluff, no data regurgitation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;meet-me-where-i-am&quot;&gt;Meet me where I am&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Alert me of important milestones reached, let me seek out details when I want or have the time.&lt;/li&gt;
+  &lt;li&gt;No detailed breakdowns, analysis or benchmarks just to say a story has average performance.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;One thing to note is design principles are commonly mistaken or misread as &lt;em&gt;principles of design&lt;/em&gt; — overarching rules and fundamental ideas from the overall practice of design that are presumed to be best practices for those doing design work. Design principles for a product or project are supposed to be specific to the circumstances and needs of the product or project at hand.&lt;/p&gt;
+
+&lt;p&gt;This mistake is why there are so many (publicly available and easily findable) horrible design principles for products out in the world. “Make it easy/simple” is the single worst and most useless example — it’s everywhere and it means nothing. Can you think of a product (games excluded) intentionally setting out to make it harder on users? If the statement doesn’t help one make a specific decision or assess if their decision is directionaly appropriate, it’s not useful.&lt;/p&gt;
+
+&lt;p&gt;Another things design principles do is they collate the commonalities, not the uniquness of the audience. Your project may serve multiple audiences with distinct needs from each other, but the design principles only speak to what is common among them.&lt;/p&gt;
+
+&lt;p&gt;I framed Carebot’s design principles as statements said from the user’s perspective (first person statements) so we’re further reminded of who is telling us these things.&lt;/p&gt;
+
+&lt;p&gt;As any other design artifact that captures user needs, it’s not ever “done” and can always be iterated to be clearer and more complete. I expect this set will change the more I understand newsroom users and the more detail I learn about their needs.&lt;/p&gt;
+
+&lt;p&gt;— &lt;a href=&quot;http://twitter.com/livlab&quot;&gt;Livia Labate&lt;/a&gt;&lt;/p&gt;</content><summary>Attempting to address such a large problem space as assessing success for journalism and analytics for newsrooms can be overwhelming. This is one of the reasons why a user-centered design approach can be really helpful.</summary></entry><entry><title>What kinds of stories can you tell?</title><link href="https://thecarebot.github.io//what-kinds-of-stories-can-you-tell/" rel="alternate" type="text/html" title="What kinds of stories can you tell?" /><published>2016-03-16T00:00:00+00:00</published><updated>2016-03-16T00:00:00+00:00</updated><id>https://thecarebot.github.io//what-kinds-of-stories-can-you-tell</id><content type="html" xml:base="https://thecarebot.github.io//what-kinds-of-stories-can-you-tell/">&lt;blockquote&gt;
+  &lt;p&gt;“Organizing is what you do before you do something, so that when you do it, it is not all mixed up.”
+—A. A. Milne&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There is no wrong way to categorize stories. There are, however, many right ways. When comparing performance across stories, newsroom users want to compare like stories, apples to apples.&lt;/p&gt;
+
+&lt;p&gt;Comparing measures to broad averages across story types dilutes the insight and often obscures what is distinct about a specific story and its performance, so the classification system has the potential to impact the quality of the analytics used.&lt;/p&gt;
+
+&lt;p&gt;After we defining &lt;strong&gt;story&lt;/strong&gt; as the &lt;a href=&quot;https://thecarebot.github.io/What-are-we-measuring-when-we-measure-journalism/&quot;&gt;unit of analysis for Carebot&lt;/a&gt;, we started to explore what is comparable and what is not; how to classify a story.&lt;/p&gt;
+
+&lt;p&gt;I had interviewed several people at NPR about their interest in story analytics so I went back to the transcripts and looked for questions that were specific to a kind of story or unique to a particular of the storytelling approach — “how many comments mentioned the graphic?” and “did anyone mute the audio-driven slideshow?” are two examples that come to mind.&lt;/p&gt;
+
+&lt;p&gt;I also pulled a random sample of NPR stories from the last 6 months and went through them, exploring the ways in which they were similar, like &lt;a href=&quot;http://apps.npr.org/life-after-death/&quot;&gt;Life After Death&lt;/a&gt; and &lt;a href=&quot;http://apps.npr.org/lookatthis/posts/bus-station&quot;&gt;The Bus Station&lt;/a&gt;, and the ways in which they were distinct, like &lt;a href=&quot;http://apps.npr.org/syria/&quot;&gt;Can’t Go Home&lt;/a&gt;
+ and &lt;a href=&quot;http://apps.npr.org/lookatthis/posts/whales&quot;&gt;Drowned Out&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is the approach I generally take when making a content inventory; take a sample of content and explore it to generate the facets I’ll use to classify all the content I’ll eventually cover. This proved to be a useful method to show that a simple hirarchy is a poor way to think about storytelling approaches because the commonalities and differences may be granular AND overarching.&lt;/p&gt;
+
+&lt;p&gt;A multi-faceted taxonomy allow us to compare relevant things among very different stories and still find meaningful insights. In short, this taxonomy creates &lt;strong&gt;a set of simplifying assumptions so that story measures and indicators can be compared to those of stories most like them.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This taxonomy reflects the realities of the NPR Visuals teams and the nature of stories told by this team, grounded in interviews with team members. The set accommodates further expansion with a variety of types and expressions should the scope of comparisons increase.&lt;/p&gt;
+
+&lt;h1 id=&quot;carebots-story-taxonomy&quot;&gt;Carebot’s Story Taxonomy&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;facet-1-dominant-media&quot;&gt;Facet 1: Dominant Media&lt;/h3&gt;
+&lt;p&gt;What media is most central to the storytelling (not just what there is more of)&lt;/p&gt;
+
+&lt;h4 id=&quot;values&quot;&gt;Values&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Text (default)&lt;/li&gt;
+  &lt;li&gt;Graphics (charts, data tables or maps)&lt;/li&gt;
+  &lt;li&gt;Photography or illustration&lt;/li&gt;
+  &lt;li&gt;Animation/loops&lt;/li&gt;
+  &lt;li&gt;Audio&lt;/li&gt;
+  &lt;li&gt;Video&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;facet-2-pacing&quot;&gt;Facet 2: Pacing&lt;/h3&gt;
+&lt;p&gt;Who drives the storytelling rhythm during viewing&lt;/p&gt;
+
+&lt;h4 id=&quot;values-1&quot;&gt;Values&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Self-paced: the story progresses according to continuous user interaction. (default)&lt;/li&gt;
+  &lt;li&gt;Auto-advance: the story progresses on its own after user’s first interaction.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;facet-3-project-type&quot;&gt;Facet 3: Project Type&lt;/h3&gt;
+&lt;p&gt;The nature of the storytelling device, from the user’s perspective.&lt;/p&gt;
+
+&lt;h4 id=&quot;values-2&quot;&gt;Values&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Story: user is informed through exposition of facts and opinions. (default)&lt;/li&gt;
+  &lt;li&gt;Lookup tool: user retrieves information from a dataset by selecting/inputing filtering choices.&lt;/li&gt;
+  &lt;li&gt;Quiz: user selects/inputs answers to a series of questions that are computed for a resulting score or conclusion.&lt;/li&gt;
+  &lt;li&gt;Playlist: user receives an organized sequence of media&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;facet-4-interaction-model&quot;&gt;Facet 4: Interaction Model&lt;/h3&gt;
+&lt;p&gt;The method by which the user navigates the story.&lt;/p&gt;
+
+&lt;h4 id=&quot;values-3&quot;&gt;Values&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Scroll: scan down a page containing various media. (This is the most common case)&lt;/li&gt;
+  &lt;li&gt;Playback: Start an audio or video-driven narrative.&lt;/li&gt;
+  &lt;li&gt;Advance: Click or tap through a sequence of assets (slides, screens, photos in a gallery, etc).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;We can add new facets until the cows go home. My main objective is to have the minimum amount of categories to make meaningful distinctions, so we don’t add any more than we need. In fact, the design approach is “take it away until it breaks, then add it back”.&lt;/p&gt;
+
+&lt;p&gt;To the extent that it made sense, I tried to frame each facet from the perspective of the user and how the user interacts with the story, in alignment with our principles (more on this later).&lt;/p&gt;
+
+&lt;h3 id=&quot;weve-been-here-before&quot;&gt;We’ve been here before…&lt;/h3&gt;
+
+&lt;p&gt;Before all this, the first iterations of Carebot had a tagging system intended for the same purpose but was really a &lt;a href=&quot;http://vanderwal.net/folksonomy.html&quot;&gt;folksonomy&lt;/a&gt;, not so much categorizing as giving the item some meaning, like “books” because it was a project about books.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/carebot-vintage-tags.png&quot; alt=&quot;Vintage Carebot&#39;s tags&quot; title=&quot;Vintage Carebot tags&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We didn’t really take advantage of that for analysis, though there was a method to query certain metrics for stories that matched a particular tag (sadly, I have no sample data or screenshots of the results):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/carebot-vintage-query.png&quot; alt=&quot;Vintage Carebot&#39;s query&quot; title=&quot;Vintage Carebot query&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A common problem with tagging is conflating the technology and the concept. The ability to tag is wonderful. It is free form and generative (I might even use it to implement this taxonomy), but the goal and intentions of the classification system depend on what you are trying to do, with the boundaries of the content space you are working with.&lt;/p&gt;
+
+&lt;p&gt;In our case, our boundaries are stories produced by NPR Visuals. However Carebot gets implemented, it would be important for those adopting it to determine if the taxonomy matches their own stories or if they need different classes and definitions.&lt;/p&gt;
+
+&lt;p&gt;We are currently building a Carebot implementation that is focused on graphics stories, so we haven’t yet broadened the scope of stories broadly enough that we need this classification system yet, but when we get there, we have this frame of reference to explore and see if it offers a sufficient level of granularity to distinguish stories withouth becoming overlwhelming and/or creating additional work for newsrooms to classify stories.&lt;/p&gt;
+
+&lt;p&gt;— &lt;a href=&quot;http://twitter.com/livlab&quot;&gt;Livia Labate&lt;/a&gt;&lt;/p&gt;</content><summary>“Organizing is what you do before you do something, so that when you do it, it is not all mixed up.”
+—A. A. Milne</summary></entry><entry><title>Metrics for Journalism Discussion at NICAR</title><link href="https://thecarebot.github.io//NICAR-metrics-for-journalism/" rel="alternate" type="text/html" title="Metrics for Journalism Discussion at NICAR" /><published>2016-03-11T00:00:00+00:00</published><updated>2016-03-11T00:00:00+00:00</updated><id>https://thecarebot.github.io//NICAR-metrics-for-journalism</id><content type="html" xml:base="https://thecarebot.github.io//NICAR-metrics-for-journalism/">&lt;p&gt;The Carebot team just came out of a wonderful discussion with a vibrant group of about 20 people at NICAR exploring metrics for journalism.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://twitter.com/eads&quot;&gt;David Eads&lt;/a&gt; kindly took detailed notes during the session, which you can find &lt;a href=&quot;https://public.etherpad-mozilla.org/p/opennews-2016-NICAR-conversations-metrics&quot;&gt;in this etherpad&lt;/a&gt;. Thanks David!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://twitter.com/matth&quot;&gt;Matt&lt;/a&gt; kicked off the conversation by asking for people’s perspectives on what success in journalism means from the perspective of the end user, the journalist, the news organization and the journalism community at large.&lt;/p&gt;
+
+&lt;p&gt;It was interesting to see general agreement about the competing forces associated with effort and metrics that support the &lt;strong&gt;running the business&lt;/strong&gt; behind the journalism, and the effort and metrics that relate to &lt;strong&gt;the mission and overall editorial drive&lt;/strong&gt; for the journalism work.&lt;/p&gt;
+
+&lt;blockquote align=&quot;center&quot; class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/NICAR16?src=hash&quot;&gt;#NICAR16&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/metrics?src=hash&quot;&gt;#metrics&lt;/a&gt; OH:&lt;br /&gt;&amp;quot;Mission-driven stories versus pay-the-bill stories demand different measures&amp;quot;&lt;/p&gt;&amp;mdash; Livia Labate (@livlab) &lt;a href=&quot;https://twitter.com/livlab/status/708329772498038784&quot;&gt;March 11, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;When we explored the question of what metrics people were interested in —without the contraints of what is technically feasable or even quantifiable— there were lots of interesting perspectives, am a definitive and concrete understanding that pageviews are insufficient, limiting and sadly addictive to many organizations.&lt;/p&gt;
+
+&lt;p&gt;While unsurprising, the measures that came up fell into the three categories we explored in the &lt;a href=&quot;https://thecarebot.github.io/What-are-we-measuring-when-we-measure-journalism/&quot;&gt;previous post&lt;/a&gt; —process, output and implications.&lt;/p&gt;
+
+&lt;blockquote align=&quot;center&quot; class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/NICAR16?src=hash&quot;&gt;#NICAR16&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/metrics?src=hash&quot;&gt;#metrics&lt;/a&gt; OH:&lt;br /&gt;&amp;quot;I want to know what it took to put a story together. The internal metrics&amp;quot;&lt;/p&gt;&amp;mdash; Livia Labate (@livlab) &lt;a href=&quot;https://twitter.com/livlab/status/708331217926512640&quot;&gt;March 11, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Understanding specific charactersitics of the audience came up as a desirable but poorly supported aspect of understanding what’s happening and whether or not journalism is being effective.&lt;/p&gt;
+
+&lt;blockquote align=&quot;center&quot; class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/NICAR16?src=hash&quot;&gt;#NICAR16&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/metrics?src=hash&quot;&gt;#metrics&lt;/a&gt; OH:&lt;br /&gt;&amp;quot;Understanding audience a challenge when your readership is very different from who you are reporting on.&amp;quot;&lt;/p&gt;&amp;mdash; Livia Labate (@livlab) &lt;a href=&quot;https://twitter.com/livlab/status/708332649803157504&quot;&gt;March 11, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;It was great to see how consistent the themes and challenges people put forth are with what we have learned so far over the course of creating Carebot and talking to other journalists.&lt;/p&gt;
+
+&lt;p&gt;Also, it is particularly exciting to find how people are experimenting and exploring new ways to measure with their audiences and in the specific circumstances of their newsroom.&lt;/p&gt;
+
+&lt;p&gt;That’s it for now. More on our NICAR take-aways next week when we are back!&lt;/p&gt;
+
+&lt;p&gt;— &lt;a href=&quot;http://twitter.com/livlab&quot;&gt;Livia Labate&lt;/a&gt;&lt;/p&gt;</content><summary>The Carebot team just came out of a wonderful discussion with a vibrant group of about 20 people at NICAR exploring metrics for journalism.</summary></entry><entry><title>What Are We Measuring When We Measure Journalism</title><link href="https://thecarebot.github.io//What-are-we-measuring-when-we-measure-journalism/" rel="alternate" type="text/html" title="What Are We Measuring When We Measure Journalism" /><published>2016-03-10T00:00:00+00:00</published><updated>2016-03-10T00:00:00+00:00</updated><id>https://thecarebot.github.io//What-are-we-measuring-when-we-measure-journalism</id><content type="html" xml:base="https://thecarebot.github.io//What-are-we-measuring-when-we-measure-journalism/">&lt;blockquote&gt;
+  &lt;p&gt;The first question asked is rarely the most useful; the last question forces you to find an answer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;When we started to discuss the many aspects of measuring success in journalism and the challenges presented with currently available analytics solutions and industry assumptions about measuring, all questions eventually lead up to “what exactly are we measuring?”&lt;/p&gt;
+
+&lt;p&gt;No matter how you measure, how you analyze and how you convey your insights, you need a subject of analysis, and “journalism” is as amorphous a topic as you could ask for.&lt;/p&gt;
+
+&lt;p&gt;In order to make any progress we need to define what we want to understand; figuring out those boundaries creates clarity and focus for analysis but also helps surface the qualities of the subject, which additionally hint to what aspects might lend itself to measurement or might be most revealing in understanding it.&lt;/p&gt;
+
+&lt;p&gt;Journalism is a &lt;strong&gt;process&lt;/strong&gt; (how it comes about) as well as &lt;strong&gt;output&lt;/strong&gt; (what it produces) as well as &lt;strong&gt;implications&lt;/strong&gt; (the ripples it creates in the world). Those are three very different aspecs and each can be explored fully on its own.&lt;/p&gt;
+
+&lt;p&gt;For the work we have been doing on Carebot we chose to focus on the &lt;strong&gt;output&lt;/strong&gt; as the subject of analysis. Journalism as process is endlessly interesting and affects output, and the ripples it creates in the world are vast and affected by the output, but ultimately we wanted to understand the questions about what happens when journalism meets a human and how they respond to this journalism. AKA, &lt;em&gt;do they care?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;But what is the output? (Note: We narrowed our exploration to the kind of journalism done today and primarily delivered on the Internet - see footnote). No matter the nature of the work —unexpected events that lead to breking news, hidden mysteries in society that investigative reporting digs up, explanations of contemporary issues that topic-specific desks analyze and elucidate—all journalism is conveyed through storytelling.&lt;/p&gt;
+
+&lt;p&gt;Storytelling allows us to focus on something more tangible than journalism, but it’s still not sufficiently concrete. We can also see process, output and implications in storytelling, so what about storytelling? Again, the answer for our purpose is its output: a &lt;strong&gt;story&lt;/strong&gt;. Story as an artifact, the thing created by the process of doing journalism, and in turn the process of storytelling.&lt;/p&gt;
+
+&lt;p&gt;With story we find something more concrete and identifiable. Yes, there is still a lot of variety in how a story may manifest in the world, but we can at least understand what that means without much ambiguity and classify those differences, making story a very viable unit for our analysis.&lt;/p&gt;
+
+&lt;p&gt;A story has shape, content, duration, rythym, tone, and so much more. A story on the Internet has very specific parameters, we can’t just talk about it abstractly or conceptualy. We know when it starts and when it ends. We know what technology was employed to build, publish and deliver it. The nature of the medium also offers built-in information about the story (metadata on the story itself and data on its use). Story is an ideal unit from that perspective.&lt;/p&gt;
+
+&lt;p&gt;So, is a news feature a story? Yes. Is a photo essay a story? Yes. Is a graphic a story? Yes. Is a photo a story? Yes. An illustration? Yes. A cartoon? Yes. Is a news feature with an interactive graphic, photos, embedded YouTube videos and SoundCloud audio also a story? You bet it is.&lt;/p&gt;
+
+&lt;p&gt;There are obvious challenges in figuring out an appropriate way to categorize stories so we can make sure we are comparing apples to apples (more on that next time), but the point with using “story” as the basis for the work is identifying a concrete, tangible, minute and distinguishible unit of analysis so our work can be precise, repeatable and understandable.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So, when we talk about measuring journalism, we mean measuring aspects of the stories that represent journalism.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;footnote&quot;&gt;Footnote&lt;/h4&gt;
+&lt;p&gt;Focusing on things delivered via the Internet may seem narrow at first, but consider this means any and all media that is delivered through digital means. Radio and TV may not be included at first, but any story that originates there also eventually find its way online, whether for redistribution, repurposing or archival purposes.&lt;/p&gt;
+
+&lt;p&gt;— &lt;a href=&quot;http://twitter.com/livlab&quot;&gt;Livia Labate&lt;/a&gt;&lt;/p&gt;</content><summary>The first question asked is rarely the most useful; the last question forces you to find an answer.</summary></entry><entry><title>Carebot at NICAR 2016</title><link href="https://thecarebot.github.io//NICAR-2016/" rel="alternate" type="text/html" title="Carebot at NICAR 2016" /><published>2016-03-09T00:00:00+00:00</published><updated>2016-03-09T00:00:00+00:00</updated><id>https://thecarebot.github.io//NICAR-2016</id><content type="html" xml:base="https://thecarebot.github.io//NICAR-2016/">&lt;p&gt;The Carebot crew, &lt;a href=&quot;http://twitter.com/livlab&quot;&gt;Livia&lt;/a&gt; and &lt;a href=&quot;http://twitter.com/matth&quot;&gt;Matt&lt;/a&gt; (we’ll miss you &lt;a href=&quot;http://twitter.com/brianboyer&quot;&gt;Brian&lt;/a&gt;!), will be at &lt;a href=&quot;http://www.ire.org/conferences/nicar2016/&quot;&gt;NICAR&lt;/a&gt; in Denver, CO this March 9-13. Hit them up if you’d like to learn more about Carebot, see example and ask questions.&lt;/p&gt;
+
+&lt;h3 id=&quot;want-to-talk-about-meaningful-metrics-for-journalism&quot;&gt;Want to talk about meaningful metrics for journalism?&lt;/h3&gt;
+
+&lt;p&gt;On Friday, March 11 Matt will facilitate &lt;a href=&quot;http://www.ire.org/events-and-training/event/2198/2513/&quot;&gt;a discussion&lt;/a&gt; under the conversations track on this very topic! Bring your ideas and good manners to explore things like:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What’s success in journalism? From the perspective of the end user, the journalist, the news organization, the industry. Are these very different definitions? Are they hard/easy to assess?&lt;/li&gt;
+  &lt;li&gt;Is every piece of journalism comparable to another piece of journalism? Are there metrics used to determine success/performance for a piece of journalism applicable to all formats of storytelling?&lt;/li&gt;
+  &lt;li&gt;What metrics are you using today and what do they tell you?&lt;/li&gt;
+  &lt;li&gt;What are things you want to know but have no answers to because there are no ways to measures the answer?&lt;/li&gt;
+  &lt;li&gt;What metrics (measures and indicators) are used in your work setting; which ones make sense and why, and how some can be inappropriate/misleading.&lt;/li&gt;
+  &lt;li&gt;What tools/sources do you use to access metrics? How do they fit with your workflow?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Be there!&lt;/p&gt;
+
+&lt;p&gt;— &lt;a href=&quot;http://twitter.com/livlab&quot;&gt;Livia Labate&lt;/a&gt;&lt;/p&gt;</content><summary>The Carebot crew, Livia and Matt (we’ll miss you Brian!), will be at NICAR in Denver, CO this March 9-13. Hit them up if you’d like to learn more about Carebot, see example and ask questions.</summary></entry><entry><title>Introducing Carebot</title><link href="https://thecarebot.github.io//Introducing-Carebot/" rel="alternate" type="text/html" title="Introducing Carebot" /><published>2016-03-02T00:00:00+00:00</published><updated>2016-03-02T00:00:00+00:00</updated><id>https://thecarebot.github.io//Introducing-Carebot</id><content type="html" xml:base="https://thecarebot.github.io//Introducing-Carebot/">&lt;p&gt;You may have &lt;a href=&quot;http://www.poynter.org/2015/npr-is-building-an-analytics-bot-that-emphasizes-caring-over-clicks/382681/&quot;&gt;heard about Carebot&lt;/a&gt; &lt;a href=&quot;http://www.huffingtonpost.com/entry/npr-carebot-clickbait_us_567332d0e4b06fa6887cb0c9?ncid=tweetlnkushpmg00000067&quot;&gt;in the media&lt;/a&gt; and you may have &lt;a href=&quot;http://twitter.com/thecarebot&quot;&gt;talked to us&lt;/a&gt; about the technical aspects of what it could be, so here is a quick update about what Carebot is today and where things stand.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-carebot-for&quot;&gt;What is Carebot for?&lt;/h2&gt;
+&lt;p&gt;I started describing Carebot as “meaningful analytics for journalism” when I noticed that the conversation about success in journalism always turns to what data people are looking at and what tools they are using rather than what problem it seeks to address and why.&lt;/p&gt;
+
+&lt;p&gt;We are not creating Carebot because there is a shortage of analytics tools or even a shortage of interest in analytics in journalism (at this point, there is great interest and tools abound). There is, however, a misalignment between the day-to-day of newsrooms and the level of insight journalists want and need about the performance of their work once it’s out in the world.&lt;/p&gt;
+
+&lt;p&gt;Carebot’s objective is to better align analytics for newsrooms to the reality of the journalists working in these diverse settings. That requires building a tool to deliver information but it also requires understanding the workflow and needs of the journalist, acknowledging that there are a variety of storytelling devices that can be employed in their work, and developing metrics that best align all these characteristics.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Carebot.png&quot; alt=&quot;Carebot&quot; width=&quot;300&quot; height=&quot;300&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Analytics are collections of data points; in order to be meaningful they need to be contextualized and relevant to the circumstances in which they are presented. What makes analytics particularly meaningful (as opposed to a handful of generic tracked data regurgitated from a database into a dashboard or report), is &lt;strong&gt;how well it drives people to act&lt;/strong&gt;, whether to &lt;em&gt;tweak a story, celebrate their success or make decisions about subsequent work.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The drive behind Carebot is a set of hypotheses. Our project is a prototype for the approach we believe can help us test and explore these hypotheses and understand how things play out in the real world of day-to-day journalism. We are exploring a few different facets:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;New thinking around what newsroom analytics should be. This includes &lt;strong&gt;what&lt;/strong&gt; we measure (what’s ‘a story’ and what it can be compared to - or not), and &lt;strong&gt;how&lt;/strong&gt; we are measuring (which measures and indicators make sense for what questions, and which ones are NOT appropriate, or misleading, or deceiving).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The technical implementation and adoption of those analytics. This concerns &lt;strong&gt;how&lt;/strong&gt; we are measuring (the technical approach to tracking, analyzing and reporting) and &lt;strong&gt;when and where&lt;/strong&gt; we are helping journalists become aware of these insights (the content, framing, frequency, volume and scope of information shared).&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Since Carebot is first an experiment, the way it works today may be completely different from how it will work in six months, but the premise is always of continuously exploring newsroom analytics and appropriate implementation fitting with newsroom circumstances.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-does-carebot-work&quot;&gt;How does Carebot work?&lt;/h2&gt;
+
+&lt;p&gt;The mechanics of Carebot are extremely straightforward: Ze collects usage data on live stories and reports specific metrics as notifications to the newsroom over a finite period of time. In our current phase of experimentation, here’s how it’s done:&lt;/p&gt;
+
+&lt;p&gt;For every story, Carebot uses a tracking component (a little snippet of code) which captures a few different aspects of how users are accessing and interacting with a story.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/carebot1.png&quot; alt=&quot;example tracking of on-screen visibility for graphics&quot; width=&quot;550&quot; height=&quot;150&quot; /&gt;
+&lt;em&gt;example tracking of on-screen visibility for graphics&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This information is fed into Google Analytics (as events and event categories, if that lingo matters to you). Carebot is also tracking some aspects of usage for things more granular than a story, such as graphics and images (which can be interesting in an of themselves).&lt;/p&gt;
+
+&lt;p&gt;This is not unlike any other measuring and tracking approach on the web, with the exception that we are intentionally focusing on a very narrow and specific set of measures — measures and indicators we are developing and testing to understand their relevance and usefulness to decision-making in the newsroom (more on that in a later post).&lt;/p&gt;
+
+&lt;p&gt;Newsrooms are busy places, so after aggregating this data, Carebot does two things differently from other reporting tools:&lt;/p&gt;
+
+&lt;p&gt;a) it only surfaces metrics identified as possibly most useful in understanding story performance for a given story type and&lt;/p&gt;
+
+&lt;p&gt;b) it offers this information through periodic notifications over a finite period of time, following the usual traffic pattern for a story.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;size-full wp-image-865&quot; src=&quot;/images/carebot2.png&quot; alt=&quot;a notification about the graphic on-screen visibility for a story&quot; width=&quot;550&quot; height=&quot;85&quot; /&gt;
+&lt;em&gt;a notification about the graphic on-screen visibility for a story&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Currently the notifications are being delivered via &lt;a href=&quot;http://slack.com&quot;&gt;Slack&lt;/a&gt; in a channel used by a specific desk (our Graphics desk) because we are prototyping Carebot in a newsroom where this particular technology is in use. Carebot is agnostic to the delivery method and the notification would work just as well as a text message, an email, a mobile app, or as a bot integration on other services like Hipchat or Twitter.&lt;/p&gt;
+
+&lt;p&gt;When Carebot first becomes aware of a story (the story gets published and the tracking mechanism starts gathering data from user visits), it alerts the newsroom so they know Carebot is keeping track of things and will start sending relevant notifications over the course of the next 3 days (3 days only due to the current scope of our work):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/carebot3.png&quot; alt=&quot;first notification carebot shares about a story&quot; width=&quot;550&quot; height=&quot;270&quot; /&gt;
+&lt;em&gt;first notification carebot shares about a story&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The scope of our current experiment is only stories with graphics and the metric we are testing is an indicator we call the “linger rate”, to assess how much time users are spending with the graphic, not just the time they spend with story the graphic is in.&lt;/p&gt;
+
+&lt;p&gt;After the first notification to indicate tracking has begun, Carebot reports that metric for the story every 4 hours for the first day, then twice daily for the second and third day. This frequency and volume are part of our experiment to find a good balance of awareness without nagging.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/carebot4.png&quot; alt=&quot;example of wording variation used on 2nd and 3rd notifications&quot; width=&quot;550&quot; height=&quot;180&quot; /&gt;
+&lt;em&gt;example of wording variation used on 2nd and 3rd notifications&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Some stories contain multiple graphics or graphics may be used across different stories. These unique scenarios are helping us explore different presentation needs and how to best answer questions raised by journalists when the right metric is available at the right time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/carebot5.png&quot; alt=&quot;early example for a story with multiple graphics&quot; width=&quot;550&quot; height=&quot;260&quot; /&gt;
+&lt;em&gt;early example for a story with multiple graphics&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Carebot is currently a broadcasting tool more than it is a bot that responds to specific user requests, but we are beginning to add a few capabilities based on user feedback and what we are learning as they receive information from Carebot.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/carebot6.png&quot; alt=&quot;test query for specific graphic information&quot; width=&quot;550&quot; height=&quot;130&quot; /&gt;
+&lt;em&gt;test query for specific graphic information&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-next-for-carebot&quot;&gt;What’s next for Carebot?&lt;/h2&gt;
+&lt;p&gt;We have been developing Carebot for just four weeks and in this short time have seen great potential from the questions designing it has raised, as well as from user feedback. We are working on 2-3 week cycles where we increase Carebot capability by growing scope of stories we analyze, scope of metrics we develop and track and report, and scope of features we develop.&lt;/p&gt;
+
+&lt;p&gt;Our work is currently supported by a &lt;a href=&quot;http://www.knightfoundation.org/grants/201551645/&quot;&gt;Knight Foundation Prototype Grant&lt;/a&gt; through May 2016. In this time, our goal is to have a concrete set of metrics (well articulated and documented), with a functional tracking and reporting mechanism (Slack notifications for now) being used in a live newsroom setting (&lt;a href=&quot;http://npr.org&quot;&gt;NPR&lt;/a&gt;), actively helping the work of journalists (&lt;a href=&quot;http://blog.apps.npr.org&quot;&gt;Visuals&lt;/a&gt;’ desks).&lt;/p&gt;
+
+&lt;p&gt;This will help us demonstrate the potential of Carebot’s approach and share the lessons we learn over the course of experimenting with this notification based approach and new metrics to improve understanding and assessment of performance for journalism.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The Carebot team will be at &lt;a href=&quot;http://www.ire.org/conferences/nicar2016/&quot;&gt;NICAR 2016, March 9-13&lt;/a&gt;, and more than eager to talk to anyone interested in understanding performance and analytics for journalism. Please connect with us in person (there will be a session about this very topic in the conversation track!) and online through &lt;a href=&quot;http://twitter.com/thecarebot&quot;&gt;@thecarebot&lt;/a&gt;. You can follow our progress on &lt;a href=&quot;http://github.com/thecarebot&quot;&gt;Github.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;— &lt;a href=&quot;http://twitter.com/livlab&quot;&gt;Livia Labate&lt;/a&gt;&lt;/p&gt;</content><summary>You may have heard about Carebot in the media and you may have talked to us about the technical aspects of what it could be, so here is a quick update about what Carebot is today and where things stand.</summary></entry></feed>
