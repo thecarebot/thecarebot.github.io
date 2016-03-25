@@ -17,8 +17,12 @@
 	---
 	layout: post
 	title: The Tile Of Your Post Goes Here
+    date: YYYY-MM-DD HH:MM:SS -0400
 	---
 ```
+
+Note: Use 24-hour formatting for times (i.e.: 16:00 for 4pm). The portion at the end of the date is the [timezone](https://www.timeanddate.com/time/zone/usa/washington-dc). 
+
 3. Save the file following the same naming convention as other files `YYYY-MM-DD-tile-of-post.md`
 
 4. `git add .` to add the file you changed. 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What kinds of stories can you tell?
+date: 2016-03-16 14:58:00 -0400
 ---
 
 > "Organizing is what you do before you do something, so that when you do it, it is not all mixed up."

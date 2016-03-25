@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Carebot Design Principles
+date: 2016-03-21 03:01:00 -0400
 ---
 
 Attempting to address such a large problem space as assessing success for journalism and analytics for newsrooms can be overwhelming. This is one of the reasons why a user-centered design approach can be really helpful.

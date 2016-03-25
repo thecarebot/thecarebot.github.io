@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What Are We Measuring When We Measure Journalism
+date: 2016-03-10 09:00:00 -0400
 ---
 
 > The first question asked is rarely the most useful; the last question forces you to find an answer.

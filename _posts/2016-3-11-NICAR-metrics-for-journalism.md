@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Metrics for Journalism Discussion at NICAR
+date: 2016-03-11 11:00:00 -0400
 ---
 
 The Carebot team just came out of a wonderful discussion with a vibrant group of about 20 people at NICAR exploring metrics for journalism.
