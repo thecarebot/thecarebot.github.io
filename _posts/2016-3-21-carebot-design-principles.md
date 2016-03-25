@@ -5,7 +5,7 @@ title: Carebot Design Principles
 
 Attempting to address such a large problem space as assessing success for journalism and analytics for newsrooms can be overwhelming. This is one of the reasons why a user-centered design approach can be really helpful.
 
-Grounding your exploration of a problem by talking to real humans in the setting these problems take place, forces you to discuss specifics and identify issues and opportunities at a much greater level of detail.
+Grounding your exploration of a problem by talking to real humans in the setting these problems take place forces you to discuss specifics and identify issues and opportunities at a much greater level of detail.
 
 After interviewing journalists, editors, producers, developers and designers at NPR, I felt I had a much better understanding of who they were (the roles they played and the distinct needs and challenges they each faced), as well as being able to see what were common problems for everyone and what were the most poorly served needs overall. 
 
@@ -13,7 +13,7 @@ After interviewing journalists, editors, producers, developers and designers at 
 
 ### Design principles
 
-Designers employ a variety methods to retain the focus on the problems users need addressed during the life of a project: personas, need matrices, user stories, journey maps, etc. 
+Designers employ a variety methods to retain the focus on the problems users' need addressed during the life of a project: personas, need matrices, user stories, journey maps, etc. 
 
 Each approach has stengths and weaknesses depending on its use and circumstances of use; I am a fan of **design principles** for projects where the problem space is abstract and I know little about it at first, and also when people may be coming in and out of the project and need to quickly get up to speed on what's really important to users.
 
