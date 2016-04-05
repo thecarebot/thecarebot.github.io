@@ -18,25 +18,29 @@ First, let's be clear about what we mean by the terms we use.
 
 **Metrics** represent the different methods we employ to understand change over time across a number of dimensions or criteria. It is often used as a catch-all term to describe the method used to measure something, the resulting values obtained from measuring, and often (misleadingly) a calculated or combined set of measures. 
 
-For clarity, we use the term **measures** when we mean that value measured by whatever mechanism we employ and the term **indicator** for values we combine and use to hint to specific outcomes and trends.
+For clarity, we use the term **measures** when we mean the value measured by whatever mechanism we employ and the term **indicator** for values we combine and use to hint to specific outcomes and trends.
+
+Note: All measures and indicators reflect events that occured in a specific period of time. When representing these values (specially when aggregating them), indicate the period of time it relates to. 
 
 ### Measures
 
-	1,234,567 Pageviews
-	8,901,234 Sessions
-	567,890 Facebook Likes
-
 A **measure** is a number or a quantity that records a directly observable value or performance. All measures are composed of a value (a number) and a unit of measure. The number provides magnitude for the measure (how much), while the unit gives number meaning (what is measured).
 
-Not all systems used to track measures share the same definition for units with the same name. A session on your site and a session on your competitor's site may be tracked differently. Ensure you are working with the same measure when using different tracking instruments. Examples:
+  1,234,567 Pageviews
+  8,901,234 Sessions
+  567,890 Facebook Likes
 
-* Pageview: An instance of a user visiting a particular page on a website. User commonly across many systems.
-* Sessions: A group of interactions that take place on a site within a given time frame. In Google Analytics, a sessions is set to 30 minutes by default, but this can be changed.
-* Facebook Likes: Number of times the Like link was cliked on in a Facebook post.
+#### Pitfalls
 
-All measures are counts of a particular unit over a period of time. For a measure to be meaningful, it should always be contextualized with the period of time that it relates to. 
+When comparing measures that are tracked by two different systems (for example, the number of daily sessions on your site versus the number of daily sessions on your competitor's site), ensure that the units are consistent between both. It is not uncommon for a measure of the same name to mean different things; consult the documentation that defines each measure for that system.
+
+Even when the same system is used, there might still be differences. For example, a `session`
+in Google Analytics is defined as "A group of interactions that take place on a site within a given time frame." It is set to 30 minutes by default, but this setting can be changed. 
+
+If, for example, you are comparing session lenght for stories with long-form video, you will likelly adjust the defaul 30 minutes to a longer period to avoid timing out user sessions while they are still watching and possibly miscounting the total number of sessions. If you do so, comparing sessions-related behaviors with another site that uses the 30 minute default may be a misleading comparison.
 
 ### Indicators
+
 An **indicator** is a qualitative or quantitative factor or variable that provides a simple and reliable means to measure achievement; the attainment of a goal, changes resulting from a specific intervention, etc. It aggregates or combines multiple measures in an explicit formula.
 
 For example, a *75% Completion Rate*. This indicator is defined differently based on the presentation of a story - in a video or audio piece it is the aggregation of total time played over video duration whereas for an interactive graphic it could be time spent viewing the graphic relative to an arbitrary ideal period of time.
