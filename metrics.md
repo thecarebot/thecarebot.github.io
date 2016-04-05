@@ -12,9 +12,13 @@ permalink: /metrics/
 
 Seeking more meaningful ways to assess success in journalism has led us to explore different metrics and approaches to understanding how people come to care about stories they encounter. This document captures what these metrics are, why we chose them, and how we are using them.
 
-## Measures and Indicators
+## Metrics, Measures and Indicators
 
-First, let's be clear about what we mean by metrics. Metrics are a catch-all term used to represent the different methods we employ to understand change over time across a number of dimensions. They are made up of explicit measures and can be combined to produce indicators, which hint us to specific outcomes and trends.
+First, let's be clear about what we mean by the terms we use. 
+
+**Metrics** represent the different methods we employ to understand change over time across a number of dimensions or criteria. It is often used as a catch-all term to describe the method used to measure something, the resulting values obtained from measuring, and often (misleadingly) a calculated or combined set of measures. 
+
+For clarity, we use the term **measures** when we mean that value measured by whatever mechanism we employ and the term **indicator** for values we combine and use to hint to specific outcomes and trends.
 
 ### Measures
 
