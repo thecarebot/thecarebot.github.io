@@ -2,11 +2,14 @@
 
 ### Setup
 
-1. Clone down this repo: `git clone https://github.com/yourusername/yourusername.github.io.git` to your local machine.
+1. Clone this repo to your local machine: 
+`git clone https://github.com/yourusername/yourusername.github.io.git` 
 
-2. `mkvirtualenv carebot-site` establishes a virtual environment (not necessary, but nice in case you want to try something out).
+2. Establishe a virtual environment (not necessary, but nice in case you want to try something out):
+`mkvirtualenv carebot-site`
 
-3. `cd carebot-site`. You are ready to go.
+3. Open the directory. You are ready to go.
+`cd carebot-site`
 
 ### Publishing New Blog Post
 
