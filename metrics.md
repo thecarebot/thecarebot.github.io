@@ -18,7 +18,7 @@ First, let's be clear about what we mean by the terms we use.
 
 **Metrics** represent the different methods we employ to understand change over time across a number of dimensions or criteria. It is often used as a catch-all term to describe the method used to measure something, the resulting values obtained from measuring, as well as a calculated or combined set of measures. 
 
-For clarity, we use the term **measures** when we mean the value measured by whatever mechanism we employ and the term **indicator** for values we combine and use to hint to specific outcomes and trends.
+We use the term **measures** when we mean the value measured by whatever mechanism we employ and the term **indicator** for values we combine and use to hint to specific outcomes and trends.
 
 Note: All measures and indicators reflect events that occured in a specific period of time. When representing these values (specially when aggregating them), indicate the period of time it relates to. 
 
@@ -54,9 +54,9 @@ All indicators are relative to a set of measures in a particular context. For an
 
 It is very easy to get indicators wrong because they can obscure a lot of information and complexity with the deceivingly simple guise of a single value.
 
-**Indicators are always relative to a context.**
+**1. Indicators are always relative to a context**
 
-'1:3 users complete the story' sounds as concrete and tangible as any other measure but the unit is not self-evident. There is no tangible `read-story` unit that can be tracked and counted. This abstraction forces introspection and requires a definitional understanding of all its parts.
+*1:3 users complete the story* sounds as concrete and tangible as any other measure but the unit is not self-evident. There is no tangible `read-story` unit that can be tracked and counted. This abstraction forces introspection and requires a definitional understanding of all its parts.
 
 [What is a story?](https://thecarebot.github.io/what-kinds-of-stories-can-you-tell/) Is a text-based 2000-word page-scroll experience and an auto-advancing photo essay with an audio track both considered stories? Can they be compared? Should they be compared? Are they compared in this '1:3 users complete the story' indicator?
 
@@ -64,7 +64,7 @@ While the answers may be yes, due to their inherent technical format difference 
 
 What measures are being used for each type? A video or audio piece may aggregate the total time played over media duration, whereas for an interactive graphic could take the total time the user spent viewing the graphic relative to an arbitrary ideal period of time. These are other examples of items that may be considered "stories" in a specific context.
 
-**Indicators can be simplifying to a fault**
+**2. Indicators can be simplifying to a fault**
 
 Indicators obfuscate in order to clarify. By reliably providing just one method to observe change of a particular aspect over time and thus understand its performance, even if it is fairly complex or complicated, indicators help make the complex clear. 
 
@@ -72,11 +72,11 @@ They accomplishe this by obfuscating the details, rationales and definitions —
 
 Obfuscating too much renders the indicator less clear because it hides some of that necessary context, so important to give meaning to the insight. Finding the right balance of offering useful insights while not overwhelming the user is a big challenge for meaningful analytics.
 
-**Indicators force value judgments**
+**3. Indicators force value judgments**
 
 Numbers are agnostic. People attribute positive or negative meaning to numbers depending on the context in which they are used. Additionally, were averages, medians or total values of aggregated measures used? Each may give you a significantly different read on your data. This is further emphasized when indicators are presented in comparative terms such as relative to a specific goal or relative to existing benchmarks.
 
-`Bounce rate` is an indicator used to describe the [percentage of single-page sessions](https://support.google.com/analytics/answer/1009409?hl=en), meaning the sessions in which the person left the site from the same page they entered without interacting with the page. Is this good or bad? It can be bad if that page is the starting point of an interactive story and the expected next step was for the user to hit play and start navigating through the story. It is good if that was your contact page and people came to get your phone number or address.
+*Bounce rate* is an indicator used to describe the [percentage of single-page sessions](https://support.google.com/analytics/answer/1009409?hl=en), meaning the sessions in which the person left the site from the same page they entered without interacting with the page. Is this good or bad? It can be bad if that page is the starting point of an interactive story and the expected next step was for the user to hit play and start navigating through the story. It is good if that was your contact page and people came to get your phone number or address.
 
 Scrutinizing what the indicator means, what it attempts to represent, how it is calculated is a healthy way to uncover measurementment problems.
 
