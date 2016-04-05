@@ -22,12 +22,13 @@ html {
 body {
 	background: $white;
   font: 18px/1.4 $roboto;
+  line-height: 1.5;
   color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 780px;
+  max-width: 740px;
   padding: 0 10px;
   width: 100%;
 }
@@ -106,7 +107,8 @@ em, i {
 }
 
 strong, b {
-  font-weight: bold;
+  font-weight: bolder;
+  color: $black
 }
 
 img {
