@@ -26,9 +26,9 @@ Note: All measures and indicators reflect events that occured in a specific peri
 
 A **measure** is a number or a quantity that records a directly observable value or performance. All measures are composed of a value (a number) and a unit of measure. The number provides magnitude for the measure (how much), while the unit gives number meaning (what is measured).
 
-  1,234,567 Pageviews
-  8,901,234 Sessions
-  567,890 Facebook Likes
+* 1,234,567 Pageviews
+* 8,901,234 Sessions
+* 567,890 Facebook Likes
 
 #### Pitfalls
 
@@ -44,9 +44,9 @@ If, for example, you are comparing session lenght for stories with long-form vid
 
 An **indicator** is a qualitative or quantitative factor or variable that provides a simple and reliable mean to express achievement, the attainment of a goal, or the results stemming from a specific change. It often aggregates or combines multiple measures in an explicit formula.
 
-  1M weekly active users
-  1:3 users complete the story
-  23% homepage bounce rate
+* 1M weekly active users
+* 1:3 users complete the story
+* 23% homepage bounce rate
 
 #### Pitfalls
 
