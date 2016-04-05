@@ -16,7 +16,7 @@ Seeking more meaningful ways to assess success in journalism has led us to explo
 
 First, let's be clear about what we mean by the terms we use. 
 
-**Metrics** represent the different methods we employ to understand change over time across a number of dimensions or criteria. It is often used as a catch-all term to describe the method used to measure something, the resulting values obtained from measuring, and often (misleadingly) a calculated or combined set of measures. 
+**Metrics** represent the different methods we employ to understand change over time across a number of dimensions or criteria. It is often used as a catch-all term to describe the method used to measure something, the resulting values obtained from measuring, as well as a calculated or combined set of measures. 
 
 For clarity, we use the term **measures** when we mean the value measured by whatever mechanism we employ and the term **indicator** for values we combine and use to hint to specific outcomes and trends.
 
