@@ -18,12 +18,13 @@
 	<script type="text/javascript" src="{{ site.baseurl }}/js/carebot-tracker.min.js"></script>
 	{% if page.slug %}
 		<script type="text/javascript">
-		var tracker = new CarebotTracker.ScrollTracker('main', function(result) {
+		var tracker = new CarebotTracker.ScrollTracker('main', function(percent, seconds) {
       var eventData = {
         'hitType': 'event',
         'eventCategory': '{{ page.slug }}',
         'eventAction': 'scroll-depth',
-        'eventLabel': result
+        'eventLabel': percent,
+        'eventValue': seconds
       };
       ga('send', eventData);
 		});
