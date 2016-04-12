@@ -94,25 +94,25 @@ For each definition below we attempted to:
 
 #### Measures
 
-Graphic On-screen Visibility is a measure used to count how much time a graphic is displayed on their browser’s viewport while the page is visible to the user.
+**Attempted Graphic Interaction** is a measure used to count how many times a user tried to interact with a graphic by clicking, tapping or dragging.
 
-Attempted Graphic Interaction is a measure used to count how many times a user tried to interact with a graphic by clicking, tapping or dragging.
+**Graphic On-screen Visibility** is a measure used to count how much time a graphic is displayed on their browser’s viewport while the page is visible to the user.
 
-Pageview is a measure used to count each time a page for a corresponding URL was loaded on the user’s browser.
+**Pageview** is a measure used to count each time a page for a corresponding URL was loaded on the user’s browser.
 
-Story Scroll Depth is a measure used to track how far down a one-page story a user has scrolled before leaving.
+**Story Scroll Depth** is a measure used to track how far down a one-page story a user has scrolled before leaving.
 
 #### Indicators
 
-Graphic Linger Rate is an indicator used to calculate the median visibility of a graphic across all users who viewed it.
+**Graphic Linger Rate** is an indicator used to calculate the median visibility of a graphic across all users who viewed it.
 
-Graphic Never Seen is an indicator used to calculate the number of potential reader of a story who never saw the graphic in the story.
+**Never Seen (Graphic)** is an indicator used to calculate the number of potential readers of a story who never saw the graphic in that story.
 
-Veni, Vidi, Relīquī is an indicator used to calculate the number of times users loaded the page for a corresponding URL then promptly abandoned it.
+**Veni, Vidi, Relīquī** is an indicator used to calculate the number of times users loaded the page for a corresponding URL then promptly abandoned it.
 
-Engaged Completion Rate is an indicator used to calculate the proportion of people who started and completed the story.
+**Engaged Completion Rate** is an indicator used to calculate the proportion of people who started and completed the story.
 
-Comparable Facebook Sharing is an indicator used to calculate the relative impact of Facebook Shares for every 1000 user sessions a story receives.
+**Comparable Facebook Sharing** is an indicator used to calculate the relative impact of Facebook Shares for every 1000 user sessions a story receives.
 
 
 ***
