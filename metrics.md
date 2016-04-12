@@ -115,13 +115,9 @@ Engaged Completion Rate is an indicator used to calculate the proportion of peop
 Comparable Facebook Sharing is an indicator used to calculate the relative impact of Facebook Shares for every 1000 user sessions a story receives.
 
 
-
-
-
 ***
 
-
-Here's what we have explored so far. Note: This part of the document changes frequently.
+#OLD NOTES TO BE CLEANED UP:
 
 #### Measure: Graphic On-screen Visibility 
 How much time a user views a graphic on their screen.
