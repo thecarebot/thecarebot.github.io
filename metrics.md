@@ -81,11 +81,24 @@ Numbers are agnostic. People attribute positive or negative meaning to numbers d
 Scrutinizing what the indicator means, what it attempts to represent, how it is calculated is a healthy way to uncover measurementment problems.
 
 
-***
-***
-
-
 ### Definitions
+
+For each definition below we attempted to:
+
+1. Articulate what each metric means so it can be understood independently.
+2. Frame the definition for what the metric does for the user of analytics data.
+3. Avoid explaining a metric by using other metrics (as much as possible).
+4. Make the distinction between metrics clear in each definition.
+
+*** 
+
+
+
+
+
+
+***
+
 
 Here's what we have explored so far. Note: This part of the document changes frequently.
 
