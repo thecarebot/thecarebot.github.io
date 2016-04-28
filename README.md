@@ -38,7 +38,7 @@ Note: Use 24-hour formatting for times (i.e.: 16:00 for 4pm). The portion at the
 
 If you want to preview the blog before going live, follow these instructions. Complete the above **setup instructions** first.
 
-1. Run `gem install github-pages` to install Jekyll and plug-ins in one fell swoop. This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc. This will allow you to reliably see the same thing you'd see on the live site.
+1. Run `sudo gem install github-pages` to install Jekyll and plug-ins in one fell swoop. This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc. This will allow you to reliably see the same thing you'd see on the live site.
 
 2. Run `jekyll serve` to serve the site.
 
