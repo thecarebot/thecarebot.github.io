@@ -66,7 +66,7 @@ Obfuscating too much renders the indicator less clear because it hides some of t
 
 Numbers are agnostic. People attribute positive or negative meaning to numbers depending on the context in which they are used. Additionally, were averages, medians or total values of aggregated measures used? Each may give you a significantly different read on your data. This is further emphasized when indicators are presented in comparative terms such as relative to a specific goal or relative to existing benchmarks.
 
-*Bounce rate* is an indicator used to describe the percentage of single-page sessions, meaning the sessions in which the person left the site from the same page they entered without interacting with the page. Is this good or bad? It can be bad if that page is the starting point of an interactive story and the expected next step was for the user to hit play and start navigating through the story. It is good if that was your contact page and people came to get your phone number or address.
+*Bounce rate* is an indicator used to describe the [percentage of single-page sessions](https://support.google.com/analytics/answer/1009409?hl=en), meaning the sessions in which the person left the site from the same page they entered without interacting with the page. Is this good or bad? It can be bad if that page is the starting point of an interactive story and the expected next step was for the user to hit play and start navigating through the story. It is good if that was your contact page and people came to get your phone number or address.
 
 Scrutinizing what the indicator means, what it attempts to represent, how it is calculated is a healthy way to uncover measurement ment problems.
 
