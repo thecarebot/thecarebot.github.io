@@ -61,6 +61,5 @@ This popular proverb has been [attributed to a variety of authors](https://athin
 
 ---
 
-*** 
 — [Livia Labate](http://twitter.com/livlab) & [Brian Boyer](http://twitter.com/brianboyer)
 
