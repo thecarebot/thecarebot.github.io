@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Metrics, Measures and Indicators
-date: 2016-04-29 14:00:00 -0400
+date: 2016-04-29 12:00:00 -0400
 ---
 
 Having a shared understanding of what metrics are and what we mean by them helps teams focus on questioning the insights they take away from the data, rather than spending the time debating the definition and quality of the data they receive.
@@ -73,6 +73,10 @@ Scrutinizing what the indicator means, what it attempts to represent, how it is 
 ***
 
 Understanding these distinctions helps teams ask qualified questions of their data, specially as they increase their numeracy and make analytics an integral part of their decision-making repertoire. 
+
+*** 
+— [Livia Labate](http://twitter.com/livlab)
+
 
 
 

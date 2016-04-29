@@ -60,3 +60,7 @@ We hope you’ll [give Carebot a try](https://thecarebot.github.io/getting-start
 This popular proverb has been [attributed to a variety of authors](https://athinkingperson.com/2012/12/02/who-said-what-gets-measured-gets-managed/) with slight variations in different contexts and eras. It was widely popularized by Peter Drucker and his [Management by Objectives](https://en.wikipedia.org/wiki/Management_by_objectives) approach since the mid 1950s and reinforced by Tom Peters’ work in the 80s and 90s.
 
 ---
+
+*** 
+— [Livia Labate](http://twitter.com/livlab) & [Brian Boyer](http://twitter.com/brianboyer)
+

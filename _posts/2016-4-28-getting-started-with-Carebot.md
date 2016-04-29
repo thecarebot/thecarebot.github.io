@@ -107,3 +107,7 @@ Note: The screenshot tool is a handy add-on that will show you a thumbnail of yo
 Once you are all setup, Carebot will look for the source of stories you defined and alert you that is has started tracking them with a notificaiton in Slack. As time passes you will see periodic updates about all stories and some related graphics to give context to certain metrics.
 
 **Enjoy!**
+
+*** 
+— [Livia Labate](http://twitter.com/livlab)
+
