@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Metrics, Measures and Indicators
-date: 2016-04-29 12:00:00 -0400
+date: 2016-04-29 11:00:00 -0400
 ---
 
 Having a shared understanding of what metrics are and what we mean by them helps teams focus on questioning the insights they take away from the data, rather than spending the time debating the definition and quality of the data they receive.
