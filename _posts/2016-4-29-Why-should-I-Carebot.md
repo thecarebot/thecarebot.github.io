@@ -53,9 +53,7 @@ The big investment is in upfront planning. We strongly recommend that teams inte
 We hope you’ll [give Carebot a try](https://thecarebot.github.io/getting-started-with-Carebot/)! (And if you do, we really hope you’ll pitch in! An open-source project is only as healthy as it’s community. We’re just getting warmed up, and every little bit helps!)
 
 
----
-
-#### * Footnote
+#### \* Footnote
 
 This popular proverb has been [attributed to a variety of authors](https://athinkingperson.com/2012/12/02/who-said-what-gets-measured-gets-managed/) with slight variations in different contexts and eras. It was widely popularized by Peter Drucker and his [Management by Objectives](https://en.wikipedia.org/wiki/Management_by_objectives) approach since the mid 1950s and reinforced by Tom Peters’ work in the 80s and 90s.
 
