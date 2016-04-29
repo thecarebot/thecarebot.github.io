@@ -8,7 +8,7 @@ permalink: /metrics/
 
 Seeking more meaningful ways to assess success in journalism has led us to explore different metrics and approaches to understanding how people come to care about stories they encounter. 
 
-This document captures what these metrics are, why we chose them, and how we are using them. We would be remiss if we didn't make it explicitly clear the distinctions we are making between [Metrics, Measures and Indicators](https://thecarebot.github.io/metrics-measures-and-indicators/) and why---these assumptions drive our framing for the definitions below.
+This document captures what these metrics are and their definitions, used as references for all Carebot outputs. We would be remiss if we didn't make it explicitly clear the distinctions we are making between [Metrics, Measures and Indicators](https://thecarebot.github.io/metrics-measures-and-indicators/) and why---these assumptions drive our framing for the definitions below.
 
 ### Definitions
 
