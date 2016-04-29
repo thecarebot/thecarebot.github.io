@@ -25,25 +25,34 @@ For each definition below we attempted to:
 
 #### Measures
 
-**Attempted Graphic Interaction** is a measure used to count how many times a user tried to interact with a graphic by clicking, tapping or dragging.
+* *Attempted Graphic Interaction* is a measure used to count how many times a user tried to interact with a graphic by clicking, tapping or dragging.
 
-**Graphic On-screen Visibility** is a measure used to count how much time a graphic is displayed on their browser’s viewport while the page is visible to the user.
+* *Graphic On-screen Visibility* is a measure used to count how much time a graphic is displayed on their browser’s viewport while the page is visible to the user.
 
-**Pageview** is a measure used to count each time a page for a corresponding URL was loaded on the user’s browser.
+* *Pageview* is a measure used to count each time a page for a corresponding URL was loaded on the user’s browser.
 
-**Story Scroll Depth** is a measure used to track how far down a one-page story a user has scrolled before leaving.
+* *Story Scroll Depth* is a measure used to track how far down a one-page story a user has scrolled before leaving.
+
+* *Story Rebirth* is a measure used to track how many users returned to a story and completed reading it after having abandoned a tab open after loading the story.
 
 #### Indicators
 
-**Graphic Linger Rate** is an indicator used to calculate the median visibility of a graphic across all users who viewed it.
+* *Graphic Linger Rate* is an indicator used to calculate the median visibility of a graphic across all users who viewed it.
 
-**Never Seen (Graphic)** is an indicator used to calculate the number of potential readers of a story who never saw the graphic in that story.
+* *Never Seen (Graphic)* is an indicator used to calculate the number of potential readers of a story who never saw the graphic in that story.
 
-**Veni, Vidi, Relīquī** is an indicator used to calculate the number of times users loaded the page for a corresponding URL then promptly abandoned it.
+* *Veni, Vidi, Relīquī* (*I came, I saw, I abandoned*) is an indicator used to calculate the number of times users loaded the page for a corresponding URL then promptly abandoned it.
 
-**Engaged Completion Rate** is an indicator used to calculate the proportion of people who started and completed the story.
+* *Engaged Completion Rate* is an indicator used to calculate the proportion of people who started and completed the story.
 
-**Comparable Facebook Sharing** is an indicator used to calculate the relative impact of Facebook Shares for every 1000 user sessions a story receives.
+* *Relative Facebook Sharing* is an indicator used to calculate the relative impact of Facebook Shares for every 1000 user sessions a story receives.
+
+#### Other
+
+Neither measures nor indicators, but related considerations:
+
+* [The Care Question](http://blog.apps.npr.org/2015/02/26/multivariate-testing.html) is a Y/N question presented to users at the end of a story to assess if it satisfied their needs. Live tests have shown that having this question present at the end of a story significantly increased users likellyhood to take a subsequent action (share, like, contribute, etc)
+
 
 <!--
 
