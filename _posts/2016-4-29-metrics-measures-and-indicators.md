@@ -70,9 +70,11 @@ Numbers are agnostic. People attribute positive or negative meaning to numbers d
 
 Scrutinizing what the indicator means, what it attempts to represent, how it is calculated is a healthy way to uncover measurement ment problems.
 
-***
+### Definitions
 
 Understanding these distinctions helps teams ask qualified questions of their data, specially as they increase their numeracy and make analytics an integral part of their decision-making repertoire. 
+
+Now that we covered this, [jump in on some of our metrics](https://thecarebot.github.io/metrics/).
 
 *** 
 — [Livia Labate](http://twitter.com/livlab)
