@@ -56,6 +56,8 @@ Neither measures nor indicators, but related considerations:
 
 <!--
 
+Figure this one out: https://github.com/thecarebot/carebot/issues/196
+
 ***
 
 #OLD NOTES TO BE CLEANED UP:
