@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Whither Pageviews? ¯\_(ツ)_/¯ 
-date: 2016-04-30 11:00:00 -0400
+date: 2016-05-30 11:00:00 -0400
 ---
 
 *Pageviews* are a pervasive newsroom metric inherited from advertising-based analytics. As we think of more appropriate metrics for journalism, what place do pageviews have in the newsroom seeking more meaningful analytics?
@@ -57,8 +57,6 @@ Usefulness potential: medium /high
 
 A pageview
 
-
-
 (aka, pageviews that lasted under 3 seconds and there was no user interaction on the page)
 
 How it expresses more useful info about a story:
@@ -70,7 +68,6 @@ Usefulness potential: high
 
 (applicable for all the above - helps tighten the focus and make the other aspects more meaningful because the comparable universe becomes more uniform)
 
-How it expresses more useful info about a story:
 Doesn’t affect perception of pageviews and its use
 
 Usefulness potential: neutral - thought I suppose it discourages apples-and-oranges comparisons
@@ -79,6 +76,7 @@ Usefulness potential: neutral - thought I suppose it discourages apples-and-oran
 ### Compare current pageview to projected pageviews for that story
 
 
+Usefulness potential: high
 
 
 #### \* Terminology Footnote
