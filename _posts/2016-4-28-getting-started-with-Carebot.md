@@ -60,7 +60,7 @@ To get Carebot up and running you will need to:
 
 **That's it.**
 
-You likelly have different systems you also want to integrate with and your own metrics to develop on top of Carebot. Instructions for these are also covered in the tracker documentation.
+You likely have different systems you also want to integrate with and your own metrics to develop on top of Carebot. Instructions for these are also covered in the tracker documentation.
 
 Note that you will be working on very granular and specific aspects of how the analytics are implemented; deeper technical expertise (comfort with JavaScript and the DOM, creating and using AWS S3 buckets, etc), and familiarity with the technologies used (Google Analytics custom events, Slack API, etc) are highly desirable/necessary.
 
